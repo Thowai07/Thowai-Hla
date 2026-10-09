@@ -1,6 +1,6 @@
 # Hi there, I'm Thowai Hla Gya Marma 👋
 
-### CSE Undergraduate at KUET | Aspiring Software Engineer
+### CSE Undergraduate at KUET
 
 *Learning, building, and solving problems one step at a time.*
 
